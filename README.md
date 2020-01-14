@@ -1,4 +1,7 @@
 # QQ Auto Adder
+本人仅提供工具，请勿将本工具用于非法或者不道德的行为
+I only provide tools, do not use this tool for illegal or unethical behavior
+本人僅提供工具，請勿將本工具用於非法或者不道德的行為
 
 ## Open Source Licenses
 **Thanks to the following open source library:**
